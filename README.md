@@ -38,4 +38,4 @@ For flux calculations, partial fCO2 data along coast lines is currently enhanced
 
 
 ## Acknowledgements
-Co-authors of this code include: Amanda Fay, Thea Heimdal, Val Bennington, Luke Gregor, and Luke Gloege with support from Galen McKinley and the Columbia University LEAP Center.
+Co-authors of this code include: Val Bennington, Luke Gloege, Devan Samant, Amanda Fay, Thea Heimdal, and Luke Gregor with support from Galen McKinley and the Columbia University LEAP Center.
